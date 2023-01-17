@@ -1,4 +1,4 @@
 # hello-world
 Hello World Exercise
-# **Lynn Marie**
-..* Coding bootcamp*
+## **Lynn Marie**
+.. * Coding bootcamp*
